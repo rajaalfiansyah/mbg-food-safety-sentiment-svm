@@ -3,7 +3,7 @@
 An NLP-driven Machine Learning web application designed to analyze and classify public social media sentiment surrounding mass food poisoning incidents linked to Indonesia's 2025 Free Nutritious Meal Program (MBG) using the Support Vector Machine (SVM) classification algorithm.
 
 ## 🚀 Live Demo
-- **URL:** *(To be updated after Vercel deployment)*
+- **URL:** https://mbg-food-safety-sentiment-svm.vercel.app
 
 ## ✨ Key Features
 - **Text Preprocessing Pipeline:** Automatic text cleaning, case folding, tokenization, stopword removal, and stemming.
